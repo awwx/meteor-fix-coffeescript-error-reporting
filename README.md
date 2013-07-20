@@ -1,4 +1,9 @@
-# Fix CoffeeScript error reporting
+# Obsolete
+
+This package is obsolete: Meteor's coffeescript package now has the fix included.
+
+
+## Fix CoffeeScript error reporting
 
 This fix is now in Meteor's "devel" branch.
 
